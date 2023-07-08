@@ -1,0 +1,23 @@
+
+.todo-container {
+    max-width: 500px;
+    margin: auto;
+    border: 1px solid #000000;
+    padding: 40px;
+}
+
+.form-container > p{
+    padding-bottom: 40px;
+}
+
+.cabecario {
+    color: azure;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+#send, #delete {
+    background-color: mediumaquamarine;
+    border: none;
+    color: azure;
+}
