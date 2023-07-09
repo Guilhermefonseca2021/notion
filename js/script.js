@@ -10,6 +10,6 @@ send.addEventListener("click", function()  {
     let p = document.getElementById("tarefas")     //2 duvida
 
     send = dados.value;                            //1
-    p.innerHTML += "<p>" + send + "</p>";          //3 duvida
+    p.innerHTML += "<p><input type='checkbox'>" + send + "</p>";          //3 duvida
 
 })
